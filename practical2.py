@@ -1,6 +1,6 @@
 # 20CE075 PARTH PARMAR
 # Practical 2: Study and Learn List, Tuple, Set and Dictionary
-#
+# https://github.com/Morningstar000/Python-Practical-2
 
 
 ##### Dictionary #####
